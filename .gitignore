@@ -1,0 +1,5 @@
+.DS_Store
+
+# Internal copy deck — excluded so it is not served publicly by Vercel
+# (the whole repo root is deployed as static files).
+instructions.pdf
