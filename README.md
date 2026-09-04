@@ -25,20 +25,23 @@ python3 -m http.server 8000
 No configuration needed — import the repo and use the "Other" framework preset
 with the repo root as the output directory. Everything is served as-is.
 
-## Before launch — replace these placeholders
+## Outbound links
 
-Search for `TODO` and `[Your Legal Entity Name]` across the three HTML files.
+All live — no placeholders remain.
 
-| Placeholder | Where |
+| Destination | Where it appears |
 | --- | --- |
-| `[Your Legal Entity Name]` | About section + footer of `index.html`, and both legal pages |
-| `#TODO-instagram` | header icon, hero CTA, Follow Us |
-| `#TODO-threads` | header icon, Follow Us |
-| `#TODO-confessions-form` | Confessions CTA (Google Form) |
-| `#TODO-btribe` | Placements CTA |
+| `https://instagram.com/mbasocial` | header icon, hero CTA, Follow Us |
+| `https://www.threads.com/@mbasocial` | header icon, Follow Us |
+| `https://forms.gle/BZrCALY5LaeDaChQ8` | Confessions CTA |
+| `https://www.btribe.in` | Placements CTA |
+| `contact@mbasocial.in` | Contact section, both legal pages |
 
 `contact@mbasocial.in` is wired up as a live `mailto:` — make sure the mailbox
-exists on the domain.
+exists on the domain before launch.
+
+Canonical URLs and Open Graph tags assume the site is served from
+`https://mbasocial.in/`.
 
 ## Notes
 
@@ -47,5 +50,9 @@ exists on the domain.
 - `MBA Social™` (with the ™) is used in the header and footer; plain
   `MBA Social` in body copy.
 - "Established 2019" and "© 2019–2026" must stay consistent across sections.
+- There is no registered legal entity, so the copy reads "independently owned
+  and operated" and the footer is just the copyright line. If an entity is
+  registered later, name it in the About section, the footer, and both legal
+  pages — consistently, in the exact registered form.
 - The Terms and Privacy pages are bare-bones drafts from the copy deck, not
   legal advice. Have a lawyer review them before launch.
