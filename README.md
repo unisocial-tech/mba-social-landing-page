@@ -35,9 +35,9 @@ All live — no placeholders remain.
 | `https://www.threads.com/@mbasocial` | header icon, Follow Us |
 | `https://forms.gle/BZrCALY5LaeDaChQ8` | Confessions CTA |
 | `https://www.btribe.in` | Placements CTA |
-| `contact@mbasocial.in` | Contact section, both legal pages |
+| `partnerships@mbasocial.in` | Contact section, both legal pages |
 
-`contact@mbasocial.in` is wired up as a live `mailto:` — make sure the mailbox
+`partnerships@mbasocial.in` is wired up as a live `mailto:` — make sure the mailbox
 exists on the domain before launch.
 
 Canonical URLs and Open Graph tags assume the site is served from
